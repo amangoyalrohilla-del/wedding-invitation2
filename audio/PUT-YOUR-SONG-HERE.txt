@@ -1,0 +1,2 @@
+Place a licensed MP3 here named exactly: wedding-song.mp3
+If no file is present, the music button simply stays hidden.

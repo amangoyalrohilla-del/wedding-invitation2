@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aman & Pranjal//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:wedding-20261212@aman-pranjal-wedding
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Aman Goyal & Pranjal Bansal Wedding
+LOCATION:Agarwal Dharamshala\, Nandpuri\, Jaipur\, Rajasthan\, India
+DESCRIPTION:Haldi & Mehendi 10:30 AM onwards\, Baraat 6:00 PM\, Wedding ceremony evening onwards. We would love to celebrate with you.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
